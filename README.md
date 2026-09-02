@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Afia Zahin - Web Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Afia611/Afia611/main/github-banner.png" alt="Afia611 - Aspiring Web Developer" width="100%">
 </p>
 
 <h2 align="center">Open to Collaboration 🤝</h2>
