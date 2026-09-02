@@ -109,17 +109,16 @@ I'm always happy to learn from other developers and build something useful toget
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afiadev-hub&show_icons=true&locale=en" alt="Afia's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Afia611&show_icons=true&theme=transparent&hide_border=true" alt="Afia's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=afiadev-hub&show_icons=true&locale=en&layout=compact" alt="Afia's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afia611&layout=compact&theme=transparent&hide_border=true" alt="Afia's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afiadev-hub" alt="Afia's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Afia611&theme=transparent&hide_border=true" alt="Afia's GitHub Streak" />
 </p>
-
 ---
 
 <p align="center">
