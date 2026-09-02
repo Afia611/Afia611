@@ -108,8 +108,6 @@ I'm always happy to learn from other developers and build something useful toget
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Afia611&theme=transparent&hide_border=true" alt="Afia's GitHub Streak" />
 </p>
