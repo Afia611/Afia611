@@ -32,24 +32,87 @@ I'm currently focused on building my frontend development skills, creating real-
 
 ---
 
-## 🚀 Currently Learning
+## 🛠️ Tech Stack 
+### 🎨 Frontend
 
-- JavaScript
-- TypeScript
-- React
-- Tailwind CSS
-- Responsive Web Development
-- Problem Solving & Data Structures
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### ⚙️ Backend & Databases — Learning
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Tools & Design
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+---
+## 🚀 Learning Progression
+<table>
+  <tr>
+    <th>Domain</th>
+    <th>Focus Areas</th>
+    <th>Progress</th>
+  </tr>
 
-## 💻 Currently Working On
+  <tr>
+    <td><b>Web Fundamentals</b></td>
+    <td>HTML, CSS, Responsive Design, Flexbox, Grid</td>
+    <td>████████░░ 80%</td>
+  </tr>
 
-- Building responsive web projects
-- Improving my JavaScript skills
-- Learning TypeScript
-- Exploring React and component-based development
-- Building projects for my portfolio
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td>ES6+, Functions, Arrays, Objects, DOM, Array Methods</td>
+    <td>███████░░░ 70%</td>
+  </tr>
+
+  <tr>
+    <td><b>Problem Solving</b></td>
+    <td>Logic Building, Algorithms, Debugging, Coding Challenges</td>
+    <td>██████░░░░ 60%</td>
+  </tr>
+
+  <tr>
+    <td><b>TypeScript</b></td>
+    <td>Types, Interfaces, Arrays, Tuples, Functions, Generics</td>
+    <td>█████░░░░░ 50%</td>
+  </tr>
+
+  <tr>
+    <td><b>React</b></td>
+    <td>Components, Props, State, Hooks, Component-Based Development</td>
+    <td>███░░░░░░░ 30%</td>
+  </tr>
+
+  <tr>
+    <td><b>Tailwind CSS</b></td>
+    <td>Utility Classes, Responsive Design, Components, Layouts</td>
+    <td>████░░░░░░ 40%</td>
+  </tr>
+
+  <tr>
+    <td><b>Modern Frontend</b></td>
+    <td>Vite, Git & GitHub, Reusable Components, Project Structure</td>
+    <td>████░░░░░░ 40%</td>
+  </tr>
+
+</table>
+
+<p align="center">
+  <i>My goal is not just to learn technologies individually, but to understand how they work together to build real-world applications. </i>
+</p>
 
 ---
 
