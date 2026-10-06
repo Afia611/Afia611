@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Afia611/Afia611/main/github-banner.png" alt="Afia611 - Aspiring Web Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/Afia611/Afia611/main/github-banner.png" alt="Afia611 - Frontend Web Developer in the making | React | Next.js | Responsive Web Design" width="100%">
 </p>
 
 <h2 align="center">Open to Collaboration 🤝</h2>
@@ -16,7 +16,7 @@ I'm a **business graduate** who started learning programming as an extra skill a
 
 I'm currently focused on building strong foundations in **frontend development**, creating real-world projects, and turning ideas into clean, responsive user experiences.
 
-- 🌱 Currently learning **JavaScript, TypeScript, React, and Tailwind CSS**
+- 🌱 Currently learning **JavaScript, TypeScript, React, and Next.JS**
 - 💻 Building projects to strengthen my **frontend development and problem-solving skills**
 - 🚀 Interested in **open-source, frontend projects, and creative web experiences**
 - 📚 Continuously learning modern **web development practices and technologies**
@@ -126,7 +126,7 @@ I'm always excited to learn from other developers, contribute, and build somethi
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
-  <a href="https://linkedin.com/in/afia-zahin" target="_blank">
+  <a href="www.linkedin.com/in/afia-zahin-linked" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
